@@ -1,0 +1,26 @@
+.navbar-logo img {
+    text-decoration-color: white;
+    height: 90px;
+    padding-left: 160px;
+    display: flex;
+    
+    
+}
+
+header {
+    width: 100%;
+    z-index: 1;
+    height: 100px;
+    background-color: lightslategray;
+
+}
+
+.header-right  {
+    color:white;
+    font-size: small;
+    text-align: right;
+    display: inline-block;
+    padding: 14px;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,166 @@
+* {
+    font-family: Apercu, sans-serif;
+    font-weight: 600;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#writer {
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+}
+
+.unactive {
+   font-size: 9px;
+   display: inline-block; 
+   
+}
+
+.active {
+    font-size: 9px;
+}
+
+.flecha {
+    margin-left: 4px;
+}
+
+.enlaces {
+    width: 50em;
+    padding: 10px;
+    text-align: right;
+    position: absolute;
+    display: list-item;
+    margin-left: 100%;
+ 
+}
+
+.tsitsipas1 {
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.tsitsipas2 {
+  padding-bottom: 10px;
+  position:relative;
+
+}
+
+#container_stories li {
+    display: inline-block;
+    width: 99px;
+    border: 1px solid #000;
+    margin-right: 10px;
+    padding: 3px;
+    background-color: #eee;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+  } 
+
+.sport_stories {
+    text-align: center;
+    display: inline-flex;
+    justify-content: space-around;
+    text-decoration: none;
+    padding: 2px;
+    padding-left: 3%;
+}
+
+.sport_stories a {
+  text-decoration: none;
+  font-size: 10px;
+}
+
+fieldset {
+    width: 40%;
+    margin-left: 2%;
+}
+
+.enlace1 {
+    text-decoration: none;
+}
+
+
+.facebook {
+    margin-top: 40px;
+    width: 250px;
+    height: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    display: inline-flex;
+    border: 0.5px solid lightgrey;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 14px;
+    
+
+}
+
+.facebook a {
+    text-decoration: none;
+}
+
+.blue {
+    margin-left: 2%;
+    color:blue;
+}
+
+
+.twitter {
+    margin-top: 40px;
+    width: 250px;
+    height: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    display: inline-flex;
+    border: 0.5px solid lightgrey;
+    background-color: whitesmoke;
+    text-align:center;
+
+}
+
+.twitter a {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.light_blue {
+    margin-left: 2%;
+}
+
+.newsletter {
+    margin-top: 40px;
+    width: 250px;
+    height: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    display: inline-flex;
+    border: 0.5px solid lightgrey;
+    background-color: whitesmoke;
+    text-align:center;
+
+}
+
+.newsletter a {
+    text-decoration: none;
+    color: red;
+}
+
+.red {
+    margin-left: 2%;
+}
+
+.logo_facebook {
+  margin-left: 40%;
+  margin-bottom: 6px;
+}
+
+
+
